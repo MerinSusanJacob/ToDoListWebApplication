@@ -1,0 +1,8 @@
+html, body {  
+    background-image: url(Images/indexImage.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    -webkit-background-size: cover;
+    background-size: cover;
+  }
